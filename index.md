@@ -1,4 +1,2 @@
-# Github is an open source 
-## github is an open source
-### github
-###### smallest header
+IMAGE OF YAKTOCAT
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
